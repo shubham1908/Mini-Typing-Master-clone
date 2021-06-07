@@ -8,7 +8,7 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background-image: linear-gradient(rgb(0, 153, 255), rgb(77, 253, 151));
+    background-image: linear-gradient(rgb(142, 208, 252), rgb(150, 248, 191));
 }
 
 body,
@@ -19,7 +19,7 @@ body,
 .container {
     position: absolute;
     top: 30%;
-    background-color: #fff67a;
+    background-color: #f7f1a2;
     padding: 1rem;
     border-radius: .5rem;
     width: 700px;
